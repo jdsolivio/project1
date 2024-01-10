@@ -1,0 +1,13 @@
+[
+  {
+    "account_username": "Juan Luna",
+    "acccount_password": "Password",
+    "account_email": "juanluna@gmail.com"
+  },
+
+  {
+    "account_username": "Juan Street",
+    "account_password": "Pass",
+    "account_email": "juanstreet@gmail.com"
+  }
+]
